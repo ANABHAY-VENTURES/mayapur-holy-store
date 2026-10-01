@@ -1,0 +1,10 @@
+{
+  "name":"Mayapur Holy Store",
+  "short_name":"Mayapur Holy Store",
+  "description":"Handcrafted devotional treasures from Sri Dham Mayapur.",
+  "start_url":"/mayapur-holy-store/",
+  "display":"standalone",
+  "background_color":"#eee5d7",
+  "theme_color":"#eee5d7",
+  "icons":[{"src":"favicon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
